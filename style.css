@@ -1,0 +1,180 @@
+nav {
+
+	background-color: black;
+	z-index: 999;
+}
+
+
+
+.navbar .logo {
+
+	min-height: 150px;
+}
+
+.fa {
+
+	color:white;
+}
+
+nav span {
+
+	margin-right: 20px;
+}
+
+nav .buton {
+
+	background-color: black;
+}
+
+.card-img-overlay {
+
+	position: absolute;
+	left:60px !important;
+	top:225px !important;
+
+
+}
+
+.sol1{
+
+	position: absolute;
+	left:50px !important;
+
+}
+
+
+.card-img-overlay h1 {
+
+	font-size: 30px;
+}
+
+
+
+.ustalansol {
+
+	margin-top:-5px !important;
+	padding:0px !important;
+	z-index: -999;
+}
+
+.ustalansag {
+	margin-top:-5px !important;
+	margin-right: -5px !important;
+	margin-left:-30px !important;
+	padding: 0px !important;
+	z-index: -999px;
+}
+
+.usthaberboyut {
+	height: 370px !important;
+	margin-top:-5px !important;
+}
+
+
+.haber4{
+    margin-left: -170px !important;
+    margin-right: -175px !important;
+    padding: 0px !important;
+    z-index: -999;
+    
+}
+
+.haber5{
+    margin-top:5px !important;
+	margin-left:-170px !important;
+	margin-right: -130px !important;
+	padding:0px !important;
+	z-index: -999;
+
+
+}
+
+.haber6{
+	
+	margin-top:4px !important;
+	margin-right: -170px !important;
+	margin-left:-130px !important;
+	padding: 0px !important;
+	z-index: -999px;
+}
+
+.haber5and6{
+	
+	height: 370px !important;
+	margin-top:-5px !important;
+}
+   
+    
+.yazıstil1{
+	margin: auto;
+ 
+ }
+
+ @media only screen and (max-width:600px){
+
+
+	.üst1{
+
+		position: absolute;
+		left:30px !important;
+
+	}
+	.sol1{
+
+		position: absolute;
+		left:200px !important;
+	
+	}
+
+	.sol2{
+
+		position: absolute;
+		left:170px !important;
+	
+	}
+	.yazıstil1{
+		margin: auto;
+		text-align: center;
+	 
+	 }
+
+	 .btn{
+		 margin-left: auto !important;
+		 margin-right: auto !important;
+		 
+	 }
+
+	
+
+ }
+
+ @media only screen and (max-width:800px){
+	
+	.sol1{
+
+		position: absolute;
+		left:180px !important;
+	
+	}
+
+	.sol2{
+
+		position: absolute;
+		left:145px !important;
+		
+	
+	}
+	.yazıstil1{
+		margin: auto;
+		text-align: center;
+	 
+	 }
+
+	 
+
+ }
+
+
+
+
+
